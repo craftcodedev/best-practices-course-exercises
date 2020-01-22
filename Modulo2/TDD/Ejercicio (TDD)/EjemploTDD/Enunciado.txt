@@ -1,0 +1,8 @@
+Escribir un programa que imprima los números del 1 al 100. Pero para los múltiplos de tres imprima "Fizz" en lugar del número y para los múltiplos de cinco imprima "Buzz". Para números que son múltiplos de tres y cinco, imprime "FizzBuzz".
+
+Lo dividiré en los siguientes pasos múltiples para que se pueda escribir y probar esto fácilmente:
+
+Imprime números del 1 al 100
+Escriba "Fizz" en lugar del número que es divisible por 3
+Escriba "Buzz" en lugar del número que es divisible por 5
+Imprima "FizzBuzz" en lugar del número que es divisible entre 3 y 5

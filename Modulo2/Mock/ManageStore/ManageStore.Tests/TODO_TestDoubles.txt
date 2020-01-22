@@ -1,0 +1,4 @@
+﻿Escribir los test doubles de la función de lectura "FindById". Se han creado todos los tests doubles relacionados con la 
+escritura (Save), ahora hay que crear los de lectura.
+
+

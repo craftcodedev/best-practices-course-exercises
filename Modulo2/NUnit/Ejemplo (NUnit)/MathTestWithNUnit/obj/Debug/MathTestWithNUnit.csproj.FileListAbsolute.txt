@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit\bin\Debug\MathTestWithNUnit.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit\bin\Debug\MathTestWithNUnit.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit\obj\Debug\MathTestWithNUnit.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit\obj\Debug\MathTestWithNUnit.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit\obj\Debug\MathTestWithNUnit.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit\obj\Debug\MathTestWithNUnit.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathTestWithNUnit\bin\Debug\MathTestWithNUnit.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathTestWithNUnit\bin\Debug\MathTestWithNUnit.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathTestWithNUnit\obj\Debug\MathTestWithNUnit.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathTestWithNUnit\obj\Debug\MathTestWithNUnit.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathTestWithNUnit\obj\Debug\MathTestWithNUnit.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathTestWithNUnit\obj\Debug\MathTestWithNUnit.pdb

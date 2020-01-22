@@ -1,0 +1,15 @@
+﻿Crear los tests de un programa que calcule el factorial de un número dado.
+
+El factorial se utiliza para calcular permutaciones, combinaciones y otros análisis matemática avanzada. 
+
+Un factorial es el resultado de multiplicar a un número determinado de números enteros consecutivos del 1 al número dado. 
+
+Se escribe con el signo de exclamación: n! y se define como:
+
+0! = 1
+1! = 1
+2! = 2 x 1 = 2
+3! = 3 x 2 x 1 = 6
+4! = 4 x 3 x 2 x 1 = 24
+
+Crear todos los tests necesarios para cubrir todas las opciones funcionales.

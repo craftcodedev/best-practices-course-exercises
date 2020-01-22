@@ -1,0 +1,6 @@
+﻿Escribir todos los tests restantes de la función de lectura "FindById". Se han creado todos los test relacionados con la 
+escritura (Save), ahora hay que crear los de lectura.
+
+También crear los tests relacionados con el VO "Customer Name"
+
+

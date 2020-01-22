@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\bin\Debug\netcoreapp2.2\ValidatorWithMoq.Tests.deps.json
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\bin\Debug\netcoreapp2.2\ValidatorWithMoq.Tests.runtimeconfig.json
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\bin\Debug\netcoreapp2.2\ValidatorWithMoq.Tests.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\bin\Debug\netcoreapp2.2\ValidatorWithMoq.Tests.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\bin\Debug\netcoreapp2.2\ValidatorWithMoq.Tests.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\bin\Debug\netcoreapp2.2\ValidatorWithMoq.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\bin\Debug\netcoreapp2.2\ValidatorWithMoq.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\obj\Debug\netcoreapp2.2\ValidatorWithMoq.Tests.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\obj\Debug\netcoreapp2.2\ValidatorWithMoq.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\obj\Debug\netcoreapp2.2\ValidatorWithMoq.Tests.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\obj\Debug\netcoreapp2.2\ValidatorWithMoq.Tests.AssemblyInfo.cs
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\obj\Debug\netcoreapp2.2\ValidatorWithMoq.Tests.csproj.CopyComplete
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\obj\Debug\netcoreapp2.2\ValidatorWithMoq.Tests.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo3 (Mock)\ValidatorWithMoq.Tests\obj\Debug\netcoreapp2.2\ValidatorWithMoq.Tests.pdb

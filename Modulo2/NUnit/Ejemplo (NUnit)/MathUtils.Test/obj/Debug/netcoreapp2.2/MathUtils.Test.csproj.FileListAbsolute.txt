@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.2\MathUtils.Test.deps.json
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.2\MathUtils.Test.runtimeconfig.json
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.2\MathUtils.Test.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.2\MathUtils.Test.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.2\MathUtils.Test.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.2\MathTestWithNUnit.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.2\MathTestWithNUnit.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\obj\Debug\netcoreapp2.2\MathUtils.Test.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\obj\Debug\netcoreapp2.2\MathUtils.Test.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\obj\Debug\netcoreapp2.2\MathUtils.Test.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\obj\Debug\netcoreapp2.2\MathUtils.Test.AssemblyInfo.cs
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\obj\Debug\netcoreapp2.2\MathUtils.Test.csproj.CopyComplete
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\obj\Debug\netcoreapp2.2\MathUtils.Test.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 2\Ejemplo4 (NUnit)\MathUtils.Test\obj\Debug\netcoreapp2.2\MathUtils.Test.pdb

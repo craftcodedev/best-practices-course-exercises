@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploMoq\.vs\EjemploMoq\lut\0\b\ValidatorWithMoq\bin\Debug\ValidatorWithMoq.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploMoq\.vs\EjemploMoq\lut\0\i\ValidatorWithMoq\Debug\ValidatorWithMoq.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploMoq\.vs\EjemploMoq\lut\0\i\ValidatorWithMoq\Debug\ValidatorWithMoq.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploMoq\.vs\EjemploMoq\lut\0\i\ValidatorWithMoq\Debug\ValidatorWithMoq.csproj.CopyComplete
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploMoq\.vs\EjemploMoq\lut\0\i\ValidatorWithMoq\Debug\ValidatorWithMoq.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo2\Ejemplo3 (Mock)\.vs\EjemploMoq\lut\0\b\ValidatorWithMoq\bin\Debug\ValidatorWithMoq.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo2\Ejemplo3 (Mock)\.vs\EjemploMoq\lut\0\i\ValidatorWithMoq\Debug\ValidatorWithMoq.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo2\Ejemplo3 (Mock)\.vs\EjemploMoq\lut\0\i\ValidatorWithMoq\Debug\ValidatorWithMoq.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo2\Ejemplo3 (Mock)\.vs\EjemploMoq\lut\0\i\ValidatorWithMoq\Debug\ValidatorWithMoq.csproj.CopyComplete
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo2\Ejemplo3 (Mock)\.vs\EjemploMoq\lut\0\i\ValidatorWithMoq\Debug\ValidatorWithMoq.dll

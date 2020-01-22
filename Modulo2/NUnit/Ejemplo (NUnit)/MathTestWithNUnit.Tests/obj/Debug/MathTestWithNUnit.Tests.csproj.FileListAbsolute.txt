@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\bin\Debug\MathTestWithNUnit.Tests.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\bin\Debug\MathTestWithNUnit.Tests.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\bin\Debug\MathTestWithNUnit.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\bin\Debug\MathTestWithNUnit.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\obj\Debug\MathTestWithNUnit.Tests.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\obj\Debug\MathTestWithNUnit.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\obj\Debug\MathTestWithNUnit.Tests.csproj.CopyComplete
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\obj\Debug\MathTestWithNUnit.Tests.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\obj\Debug\MathTestWithNUnit.Tests.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\bin\Debug\nunit.engine.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 3\EjemploNUnit\MathTestWithNUnit.Tests\bin\Debug\nunit.engine.api.dll
