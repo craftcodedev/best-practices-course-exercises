@@ -13,3 +13,7 @@ GitFlowExample/obj/Debug/netcoreapp2.2/GitFlowExample.AssemblyInfo.cs
 GitFlowExample/GitFlowExample.csproj
 .vs/GitFlowExample/v15/.suo
 GitFlowExample.sln
+.vs/GitFlowExample/v15/Server/sqlite3/storage.ide-wal
+.vs/GitFlowExample/v15/Server/sqlite3/storage.ide-shm
+.vs/GitFlowExample/v15/Server/sqlite3/storage.ide
+.vs/GitFlowExample/v15/Server/sqlite3/db.lock
