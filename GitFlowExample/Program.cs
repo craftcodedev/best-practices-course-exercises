@@ -6,7 +6,7 @@ namespace GitFlowExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Release");
         }
     }
 }
