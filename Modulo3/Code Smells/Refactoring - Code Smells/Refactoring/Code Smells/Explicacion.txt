@@ -1,0 +1,29 @@
+﻿Lo primero que se puede ver en este método fueron los siguientes Code Smells:
+
+- Método largo: cuanto más largo es el método, más difícil es ver lo que está haciendo. 
+Se debe refactorizar y dividir el método.
+
+- Código duplicado
+
+- Comentarios: solo debe usarse para aclarar "por qué" no "qué". Los comentarios pueden 
+convertirse rápidamente en molestos y reducen la claridad del código.
+
+- Código muerto: una variable, parámetro, método, fragmento de código, clase, etc. que no 
+se usa en ningún lado.
+
+También es difícil averiguar qué está haciendo el método. 
+
+¿Qué verificación se quiere hacer en este método? 
+
+La intención de lo que está haciendo el código no está clara. Después de un tiempo, se puede
+saber que la solicitud que se pasó de la interfaz de usuario al servicio web tiene dos 
+parámetros que se deben verificar.
+
+Se van a establcer las siguientes reglas:
+
+Si ambos parámetros son nulos o cadena vacía, se lanza una excepción.
+Si ambos parámetros se informan, se lanza una excepción.
+Si solo se informa el ID de cliente, se verifica si no se cumple la longitud máxima del parámetro.
+Si solo se informa el Número de producto, se verifica si no se cumple la longitud máxima del parámetro.
+El método devuelve un valor booleano, pero es imposible devolver un valor falso, por lo que 
+devolver cualquier cosa es redundante.

@@ -1,0 +1,54 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.exe.config
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.csproj.CopyComplete
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.deps.json
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.runtimeconfig.json
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.exe
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.exe.config
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.AssemblyInfo.cs
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.csproj.CopyComplete
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.deps.json
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.runtimeconfig.json
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.Test.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.exe
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\bin\Debug\netcoreapp2.2\Refactoring.exe.config
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.AssemblyInfo.cs
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.csproj.CopyComplete
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 3\Ejercicio2 (Refactoring)\Refactoring - Techniques\Refactoring.Test\obj\Debug\netcoreapp2.2\Refactoring.Test.pdb
