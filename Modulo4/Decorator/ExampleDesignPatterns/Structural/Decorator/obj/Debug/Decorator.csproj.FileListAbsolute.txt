@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Structural\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Structural\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Structural\Decorator\bin\Debug\Decorator.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Structural\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Structural\Decorator\obj\Debug\Decorator.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Structural\Decorator\obj\Debug\Decorator.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Structural\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Structural\Decorator\bin\Debug\Decorator.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Structural\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Structural\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Structural\Decorator\obj\Debug\Decorator.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Structural\Decorator\obj\Debug\Decorator.pdb

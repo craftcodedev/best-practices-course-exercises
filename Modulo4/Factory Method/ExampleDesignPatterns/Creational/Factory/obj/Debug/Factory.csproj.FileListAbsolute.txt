@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Factory\bin\Debug\Factory.exe.config
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Factory\bin\Debug\Factory.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Factory\bin\Debug\Factory.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Factory\obj\Debug\Factory.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Factory\obj\Debug\Factory.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Creational\Factory\bin\Debug\Factory.exe.config
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Creational\Factory\bin\Debug\Factory.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Creational\Factory\bin\Debug\Factory.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Creational\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Creational\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Creational\Factory\obj\Debug\Factory.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Creational\Factory\obj\Debug\Factory.pdb

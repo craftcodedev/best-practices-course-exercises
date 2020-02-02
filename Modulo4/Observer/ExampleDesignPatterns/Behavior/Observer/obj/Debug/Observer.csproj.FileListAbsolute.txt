@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Behavior\Observer\bin\Debug\Observer.exe.config
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Behavior\Observer\bin\Debug\Observer.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Behavior\Observer\bin\Debug\Observer.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Behavior\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Behavior\Observer\obj\Debug\Observer.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Behavior\Observer\obj\Debug\Observer.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Behavior\Observer\bin\Debug\Observer.exe.config
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Behavior\Observer\bin\Debug\Observer.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Behavior\Observer\bin\Debug\Observer.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Behavior\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Behavior\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Behavior\Observer\obj\Debug\Observer.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Behavior\Observer\obj\Debug\Observer.pdb
