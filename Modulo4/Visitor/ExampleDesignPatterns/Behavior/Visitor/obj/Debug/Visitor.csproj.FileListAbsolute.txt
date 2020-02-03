@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Behavior\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Behavior\Visitor\bin\Debug\Visitor.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Behavior\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Behavior\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Behavior\Visitor\obj\Debug\Visitor.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Profesor\Modulo4\ExampleDesignPatterns\Behavior\Visitor\obj\Debug\Visitor.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Behavior\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Behavior\Visitor\bin\Debug\Visitor.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Behavior\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Behavior\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Behavior\Visitor\obj\Debug\Visitor.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Best Practices Git\teacher\Module4\ExampleDesignPatterns\Behavior\Visitor\obj\Debug\Visitor.pdb

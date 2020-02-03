@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Visitor
+{
+    public interface IVisitor
+    {
+        void Visit(Course course);
+        void Visit(Class classCourse);
+        void Visit(Practice practice);
+    }
+}
