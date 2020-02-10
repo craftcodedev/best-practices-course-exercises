@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Dependency Inversion\ExamplesSOLID\DIP\bin\Debug\DIP.exe.config
+C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Dependency Inversion\ExamplesSOLID\DIP\bin\Debug\DIP.exe
+C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Dependency Inversion\ExamplesSOLID\DIP\bin\Debug\DIP.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Dependency Inversion\ExamplesSOLID\DIP\obj\Debug\DIP.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Dependency Inversion\ExamplesSOLID\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Dependency Inversion\ExamplesSOLID\DIP\obj\Debug\DIP.exe
+C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Dependency Inversion\ExamplesSOLID\DIP\obj\Debug\DIP.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Dependency Inversion\DIP\bin\Debug\DIP.exe.config
+C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Dependency Inversion\DIP\bin\Debug\DIP.exe
+C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Dependency Inversion\DIP\bin\Debug\DIP.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Dependency Inversion\DIP\obj\Debug\DIP.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Dependency Inversion\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Dependency Inversion\DIP\obj\Debug\DIP.exe
+C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Dependency Inversion\DIP\obj\Debug\DIP.pdb

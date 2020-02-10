@@ -1,0 +1,5 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 6\EjerciciosSOLID\.vs\Ejercicios.SOLID\lut\0\b\Ejercicios.SOLID\bin\Debug\Ejercicios.SOLID.exe
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 6\EjerciciosSOLID\.vs\Ejercicios.SOLID\lut\0\i\Ejercicios.SOLID\Debug\Ejercicios.SOLID.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 6\EjerciciosSOLID\.vs\Ejercicios.SOLID\lut\0\i\Ejercicios.SOLID\Debug\Ejercicios.SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 6\EjerciciosSOLID\.vs\Ejercicios.SOLID\lut\0\i\Ejercicios.SOLID\Debug\Ejercicios.SOLID.csproj.CopyComplete
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Modulo 6\EjerciciosSOLID\.vs\Ejercicios.SOLID\lut\0\i\Ejercicios.SOLID\Debug\Ejercicios.SOLID.exe
