@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\CraftCodeExamples\AppFinal\AppCraftCode\bin\Debug\netcoreapp2.1\AppCraftCode.deps.json
+C:\Users\Usuario\Documents\CraftCodeExamples\AppFinal\AppCraftCode\bin\Debug\netcoreapp2.1\AppCraftCode.runtimeconfig.json
+C:\Users\Usuario\Documents\CraftCodeExamples\AppFinal\AppCraftCode\bin\Debug\netcoreapp2.1\AppCraftCode.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\CraftCodeExamples\AppFinal\AppCraftCode\bin\Debug\netcoreapp2.1\AppCraftCode.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\AppFinal\AppCraftCode\obj\Debug\netcoreapp2.1\AppCraftCode.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\AppFinal\AppCraftCode\obj\Debug\netcoreapp2.1\AppCraftCode.RazorAssemblyInfo.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\AppFinal\AppCraftCode\obj\Debug\netcoreapp2.1\AppCraftCode.RazorAssemblyInfo.cs
+C:\Users\Usuario\Documents\CraftCodeExamples\AppFinal\AppCraftCode\obj\Debug\netcoreapp2.1\AppCraftCode.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\AppFinal\AppCraftCode\obj\Debug\netcoreapp2.1\AppCraftCode.AssemblyInfo.cs
+C:\Users\Usuario\Documents\CraftCodeExamples\AppFinal\AppCraftCode\obj\Debug\netcoreapp2.1\AppCraftCode.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Documents\CraftCodeExamples\AppFinal\AppCraftCode\bin\Debug\netcoreapp2.1\AppCraftCode.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\AppFinal\AppCraftCode\obj\Debug\netcoreapp2.1\AppCraftCode.dll
+C:\Users\Usuario\Documents\CraftCodeExamples\AppFinal\AppCraftCode\obj\Debug\netcoreapp2.1\AppCraftCode.pdb
+C:\Users\Usuario\Documents\CraftCodeExamples\AppFinal\AppCraftCode\obj\Debug\netcoreapp2.1\AppCraftCode.csprojAssemblyReference.cache
