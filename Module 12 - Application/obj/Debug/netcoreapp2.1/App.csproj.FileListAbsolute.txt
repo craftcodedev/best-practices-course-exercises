@@ -1,0 +1,128 @@
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/bin/Debug/netcoreapp2.1/App.deps.json
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/bin/Debug/netcoreapp2.1/App.runtimeconfig.json
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/bin/Debug/netcoreapp2.1/App.runtimeconfig.dev.json
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/bin/Debug/netcoreapp2.1/App.dll
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/bin/Debug/netcoreapp2.1/App.pdb
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/bin/Debug/netcoreapp2.1/App.Views.dll
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/bin/Debug/netcoreapp2.1/App.Views.pdb
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.csprojAssemblyReference.cache
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.csproj.CoreCompileInputs.cache
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.RazorAssemblyInfo.cache
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.RazorAssemblyInfo.cs
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.AssemblyInfoInputs.cache
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.AssemblyInfo.cs
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.TagHelpers.input.cache
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.TagHelpers.output.cache
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.RazorCoreGenerate.cache
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.RazorTargetAssemblyInfo.cache
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.RazorTargetAssemblyInfo.cs
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.Views.pdb
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.dll
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.pdb
+/home/blashak/Projects/curso-buenas-practicas/Practicas/Alumnos/App/obj/Debug/netcoreapp2.1/App.csproj.CopyComplete
+/app/bin/Debug/netcoreapp2.1/App.deps.json
+/app/bin/Debug/netcoreapp2.1/App.runtimeconfig.json
+/app/bin/Debug/netcoreapp2.1/App.runtimeconfig.dev.json
+/app/bin/Debug/netcoreapp2.1/App.dll
+/app/bin/Debug/netcoreapp2.1/App.pdb
+/app/bin/Debug/netcoreapp2.1/App.Views.dll
+/app/bin/Debug/netcoreapp2.1/App.Views.pdb
+/app/obj/Debug/netcoreapp2.1/App.csprojAssemblyReference.cache
+/app/obj/Debug/netcoreapp2.1/App.csproj.CoreCompileInputs.cache
+/app/obj/Debug/netcoreapp2.1/App.RazorAssemblyInfo.cache
+/app/obj/Debug/netcoreapp2.1/App.RazorAssemblyInfo.cs
+/app/obj/Debug/netcoreapp2.1/App.AssemblyInfoInputs.cache
+/app/obj/Debug/netcoreapp2.1/App.AssemblyInfo.cs
+/app/obj/Debug/netcoreapp2.1/App.TagHelpers.input.cache
+/app/obj/Debug/netcoreapp2.1/App.TagHelpers.output.cache
+/app/obj/Debug/netcoreapp2.1/App.RazorCoreGenerate.cache
+/app/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/app/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/app/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/app/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/app/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/app/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/app/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/app/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/app/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/app/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/app/obj/Debug/netcoreapp2.1/App.RazorTargetAssemblyInfo.cache
+/app/obj/Debug/netcoreapp2.1/App.RazorTargetAssemblyInfo.cs
+/app/obj/Debug/netcoreapp2.1/App.Views.pdb
+/app/obj/Debug/netcoreapp2.1/App.dll
+/app/obj/Debug/netcoreapp2.1/App.pdb
+/app/obj/Debug/netcoreapp2.1/App.csproj.CopyComplete
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\bin\Debug\netcoreapp2.1\App.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\bin\Debug\netcoreapp2.1\App.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\bin\Debug\netcoreapp2.1\App.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\bin\Debug\netcoreapp2.1\App.Views.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\bin\Debug\netcoreapp2.1\App.Views.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.RazorAssemblyInfo.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.RazorAssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.TagHelpers.input.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.TagHelpers.output.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.RazorCoreGenerate.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.Views.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.csproj.CopyComplete
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas\Git\Practicas\Alumnos\App\obj\Debug\netcoreapp2.1\App.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\bin\Debug\netcoreapp2.1\App.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\bin\Debug\netcoreapp2.1\App.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\bin\Debug\netcoreapp2.1\App.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\bin\Debug\netcoreapp2.1\App.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\bin\Debug\netcoreapp2.1\App.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\bin\Debug\netcoreapp2.1\App.Views.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\bin\Debug\netcoreapp2.1\App.Views.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.RazorAssemblyInfo.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.RazorAssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.TagHelpers.input.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.TagHelpers.output.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.RazorCoreGenerate.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.Views.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Git\Backend Course Git\student\Module 12 - Application\obj\Debug\netcoreapp2.1\App.csproj.CopyComplete

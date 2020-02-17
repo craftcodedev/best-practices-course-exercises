@@ -1,0 +1,25 @@
+version: '3.0'
+ 
+services:
+   db:
+     image: mysql:5.7
+     environment:
+       MYSQL_RANDOM_ROOT_PASSWORD: 1
+       MYSQL_DATABASE: blockbuster
+       MYSQL_USER: dbuser
+       MYSQL_PASSWORD: dbuserpassword
+     volumes:
+       - ./db/:/docker-entrypoint-initdb.d
+     restart: always
+ 
+   dotnet:
+     depends_on:
+       - db
+     build:
+       context: ./../../
+       dockerfile: ./etc/docker/dotnet/dockerfile
+     volumes:
+       - ./../../:/app:cached
+     ports:
+       - "8000:80"
+     #entrypoint: ./etc/docker/dotnet/entrypoint.sh
