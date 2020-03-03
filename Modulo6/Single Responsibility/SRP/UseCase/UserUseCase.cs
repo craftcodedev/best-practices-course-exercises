@@ -1,4 +1,4 @@
-﻿using SRP.Repository;
+﻿using SRP.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,19 +9,19 @@ namespace SRP.UseCase
 {
     public class UserUseCase
     {
-        private UserFactory userFactory;
-        private IUserRepository userRepository;
+        private UserFactory _userFactory;
+        private IUserRepository _userRepository;
 
         public UserUseCase(UserFactory userFactory, IUserRepository userRepository)
         {
-            this.userFactory = userFactory;
-            this.userRepository = userRepository;
+            _userFactory = userFactory;
+            _userRepository = userRepository;
         }
 
-        public void SignUp(string email, string nif)
+        public void AddUser(string email, string nif)
         {
-            User user = userFactory.Create(email, nif);
-            userRepository.Save(user);
+            User user = _userFactory.Create(email, nif);
+            _userRepository.Save(user);
         }
     }
 }

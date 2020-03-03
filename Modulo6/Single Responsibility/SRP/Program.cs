@@ -1,4 +1,5 @@
 ﻿using SRP.Repository;
+using SRP.Services;
 using SRP.UseCase;
 using System;
 using System.Collections.Generic;
@@ -12,22 +13,22 @@ namespace SRP
     {
         static void Main(string[] args)
         {
-            EmailUseCase emailUseCase = new EmailUseCase(new EmailRepository());
+            SendEmailUseCase sendEmailUseCase = new SendEmailUseCase(new SendGrid());
             UserUseCase userUseCase = new UserUseCase(new UserFactory(), new UserRepository());
 
             EmailInfo emailInfo = new EmailInfo
             {
-                From = "ruben@craft.com",
-                To = "agustin@craft.com",
-                Subject = "Course",
-                Message = "Hello"
+                From = "craftCode@craft.com",
+                To = "ruben@craft.com",
+                Subject = "Subject",
+                Message = "Message"
             };
 
-            string nif = "1234567890";
+            string email = "example@craft.com";
+            string nif = "12345678901";
 
-            emailUseCase.Send(emailInfo);
-            userUseCase.SignUp(emailInfo.From, nif);
-
+            userUseCase.AddUser(email, nif);
+            sendEmailUseCase.SendMail(emailInfo);
         }
     }
 }
