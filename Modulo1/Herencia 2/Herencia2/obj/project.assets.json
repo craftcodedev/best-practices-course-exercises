@@ -687,31 +687,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/Blashak/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\CraftCodeExamples\\Modulo 1\\Herencia 2\\Herencia2\\Herencia2.csproj",
+      "projectUniqueName": "/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Herencia 2/Herencia2/Herencia2.csproj",
       "projectName": "Herencia2",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\CraftCodeExamples\\Modulo 1\\Herencia 2\\Herencia2\\Herencia2.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\CraftCodeExamples\\Modulo 1\\Herencia 2\\Herencia2\\obj\\",
+      "projectPath": "/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Herencia 2/Herencia2/Herencia2.csproj",
+      "packagesPath": "/Users/Blashak/.nuget/packages/",
+      "outputPath": "/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Herencia 2/Herencia2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/Blashak/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.dev.dom.alcinformatica.com/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -736,10 +733,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   }

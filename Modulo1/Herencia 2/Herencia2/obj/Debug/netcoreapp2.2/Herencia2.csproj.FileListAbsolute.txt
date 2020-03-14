@@ -1,10 +1,20 @@
-C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 1\Herencia 2\Herencia2\bin\Debug\netcoreapp2.2\Herencia2.deps.json
-C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 1\Herencia 2\Herencia2\bin\Debug\netcoreapp2.2\Herencia2.runtimeconfig.json
-C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 1\Herencia 2\Herencia2\bin\Debug\netcoreapp2.2\Herencia2.runtimeconfig.dev.json
-C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 1\Herencia 2\Herencia2\bin\Debug\netcoreapp2.2\Herencia2.dll
-C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 1\Herencia 2\Herencia2\bin\Debug\netcoreapp2.2\Herencia2.pdb
-C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 1\Herencia 2\Herencia2\obj\Debug\netcoreapp2.2\Herencia2.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 1\Herencia 2\Herencia2\obj\Debug\netcoreapp2.2\Herencia2.AssemblyInfoInputs.cache
-C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 1\Herencia 2\Herencia2\obj\Debug\netcoreapp2.2\Herencia2.AssemblyInfo.cs
-C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 1\Herencia 2\Herencia2\obj\Debug\netcoreapp2.2\Herencia2.dll
-C:\Users\Usuario\Documents\CraftCodeExamples\Modulo 1\Herencia 2\Herencia2\obj\Debug\netcoreapp2.2\Herencia2.pdb
+C:/Users/Usuario/Documents/CraftCodeExamples/Modulo 1/Herencia 2/Herencia2/bin/Debug/netcoreapp2.2/Herencia2.deps.json
+C:/Users/Usuario/Documents/CraftCodeExamples/Modulo 1/Herencia 2/Herencia2/bin/Debug/netcoreapp2.2/Herencia2.runtimeconfig.json
+C:/Users/Usuario/Documents/CraftCodeExamples/Modulo 1/Herencia 2/Herencia2/bin/Debug/netcoreapp2.2/Herencia2.runtimeconfig.dev.json
+C:/Users/Usuario/Documents/CraftCodeExamples/Modulo 1/Herencia 2/Herencia2/bin/Debug/netcoreapp2.2/Herencia2.dll
+C:/Users/Usuario/Documents/CraftCodeExamples/Modulo 1/Herencia 2/Herencia2/bin/Debug/netcoreapp2.2/Herencia2.pdb
+C:/Users/Usuario/Documents/CraftCodeExamples/Modulo 1/Herencia 2/Herencia2/obj/Debug/netcoreapp2.2/Herencia2.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Documents/CraftCodeExamples/Modulo 1/Herencia 2/Herencia2/obj/Debug/netcoreapp2.2/Herencia2.AssemblyInfoInputs.cache
+C:/Users/Usuario/Documents/CraftCodeExamples/Modulo 1/Herencia 2/Herencia2/obj/Debug/netcoreapp2.2/Herencia2.AssemblyInfo.cs
+C:/Users/Usuario/Documents/CraftCodeExamples/Modulo 1/Herencia 2/Herencia2/obj/Debug/netcoreapp2.2/Herencia2.dll
+C:/Users/Usuario/Documents/CraftCodeExamples/Modulo 1/Herencia 2/Herencia2/obj/Debug/netcoreapp2.2/Herencia2.pdb
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Herencia 2/Herencia2/bin/Debug/netcoreapp2.2/Herencia2.deps.json
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Herencia 2/Herencia2/bin/Debug/netcoreapp2.2/Herencia2.runtimeconfig.json
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Herencia 2/Herencia2/bin/Debug/netcoreapp2.2/Herencia2.runtimeconfig.dev.json
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Herencia 2/Herencia2/bin/Debug/netcoreapp2.2/Herencia2.dll
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Herencia 2/Herencia2/bin/Debug/netcoreapp2.2/Herencia2.pdb
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Herencia 2/Herencia2/obj/Debug/netcoreapp2.2/Herencia2.csprojAssemblyReference.cache
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Herencia 2/Herencia2/obj/Debug/netcoreapp2.2/Herencia2.AssemblyInfoInputs.cache
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Herencia 2/Herencia2/obj/Debug/netcoreapp2.2/Herencia2.AssemblyInfo.cs
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Herencia 2/Herencia2/obj/Debug/netcoreapp2.2/Herencia2.dll
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Herencia 2/Herencia2/obj/Debug/netcoreapp2.2/Herencia2.pdb
