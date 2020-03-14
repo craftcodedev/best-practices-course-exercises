@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Generics
+namespace Fundamentos
 {
-    class Program
+    class MainClass
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var lista1 = CreateListGen(1, 2, 3);
             var lista2 = CreateListGen("1", "2", "3");
