@@ -1,18 +1,26 @@
 ﻿using System.Collections.Generic;
 using CraftCodeApp.src.Shared.Domain.Event;
 
-namespace CraftCodeApp.src.Shared.Domain
+namespace CraftCodeApp.src.Shared.Infrastructure.Bus.Event
 {
-    public abstract class AggregateRoot
+    public class EventProvider : IEventProvider
     {
         private List<DomainEvent> events;
 
-        public AggregateRoot()
+        public EventProvider()
         {
             this.events = new List<DomainEvent>();
         }
 
-        protected void Record(DomainEvent domainEvent)
+        public void RecordEvents(List<DomainEvent> domainEvents)
+        {
+            foreach (DomainEvent domainEvent in domainEvents)
+            {
+                this.Record(domainEvent);
+            }
+        }
+
+        private void Record(DomainEvent domainEvent)
         {
             this.events.Add(domainEvent);
         }

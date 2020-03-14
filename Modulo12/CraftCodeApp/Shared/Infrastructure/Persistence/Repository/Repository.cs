@@ -1,5 +1,6 @@
-using System;
+﻿using System;
 using System.Linq;
+using CraftCodeApp.src.Shared.Infrastructure.Persistence.Context;
 using Microsoft.EntityFrameworkCore;
 
 namespace CraftCodeApp.src.Shared.Infrastructure.Persistence.Repository
@@ -47,8 +48,8 @@ namespace CraftCodeApp.src.Shared.Infrastructure.Persistence.Repository
 
         public void Dispose()
         {
-            Db.Dispose();
-            GC.SuppressFinalize(this);
+            //Db.Dispose();
+            //GC.SuppressFinalize(this);
         }
     }
 }

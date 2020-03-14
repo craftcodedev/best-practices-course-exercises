@@ -1,7 +1,7 @@
-using System;
+﻿using System;
 namespace CraftCodeApp.src.Shared.Domain.Exception
 {
-    public class InvalidAttributeException : InvalidttributeException
+    public class InvalidAttributeException : ValidationException
     {
         public InvalidAttributeException(string message) : base(message) { }
 

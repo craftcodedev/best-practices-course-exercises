@@ -1,8 +1,8 @@
-using System;
+﻿using System;
 namespace CraftCodeApp.src.Shared.Domain.Exception
 {
-    public class InvalidttributeException : WarningException
+    public class ValidationException : WarningException
     {
-        public InvalidttributeException(string message) : base(message) { }
+        public ValidationException(string message) : base(message) { }
     }
 }

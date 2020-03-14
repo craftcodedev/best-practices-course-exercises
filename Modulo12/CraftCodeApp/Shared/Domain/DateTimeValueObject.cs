@@ -3,16 +3,16 @@ using System.Collections.Generic;
 
 namespace CraftCodeApp.src.Shared.Domain
 {
-    public abstract class StringValueObject : ValueObject
+    public abstract class DateTimeValueObject : ValueObject
     {
-        private string value;
+        private DateTime value;
 
-        public StringValueObject(string value)
+        public DateTimeValueObject(DateTime value)
         {
             this.value = value;
         }
 
-        public string GetValue()
+        public DateTime GetValue()
         {
             return this.value;
         }
