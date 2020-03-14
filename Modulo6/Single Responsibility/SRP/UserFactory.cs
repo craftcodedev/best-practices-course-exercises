@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SRP.ValueObjects;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,9 +11,9 @@ namespace SRP
     {
         public User Create(string email, string nif)
         {
-            Email emailVO = new Email(email);
-            NIF nifVO = new NIF(nif);
-            return User.SignUp(emailVO, nifVO);
+            UserEmail userEmail = new UserEmail(email);
+            UserNIF userNIF = new UserNIF(nif);
+            return User.SignUp(userEmail, userNIF);
         }
     }
 }

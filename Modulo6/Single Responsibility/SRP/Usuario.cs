@@ -5,7 +5,7 @@ using System.Net.Mail;
 
 namespace SRP 
 {
-    public class User2
+    public class ManagementUser
     {
         public int Code { get; set; }
         public string Name { get; set; }

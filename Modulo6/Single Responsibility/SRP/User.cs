@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SRP.ValueObjects;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,28 +9,18 @@ namespace SRP
 {
     public class User
     {
-        private Email email;
-        private NIF nif;
+        private UserEmail email;
+        private UserNIF nif;
 
-        public User(Email email, NIF nif)
+        public User(UserEmail email, UserNIF nif)
         {
             this.email = email;
             this.nif = nif;
         }
 
-        public static User SignUp(Email email, NIF nif)
+        public static User SignUp(UserEmail email, UserNIF nif)
         {
             return new User(email, nif);
-        }
-
-        public string EmailInfoUser()
-        {
-            return email.EmailParam();
-        }
-
-        public string NIFInfoUser()
-        {
-            return nif.NIFParam();
         }
     }
 }

@@ -43,20 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Email.cs" />
     <Compile Include="EmailInfo.cs" />
-    <Compile Include="NIF.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repository\IEmailRepository.cs" />
-    <Compile Include="Repository\IUserRepository.cs" />
-    <Compile Include="Repository\EmailRepository.cs" />
-    <Compile Include="Repository\UserRepository.cs" />
-    <Compile Include="UseCase\EmailUseCase.cs" />
+    <Compile Include="Services\IMailer.cs" />
+    <Compile Include="Services\IUserRepository.cs" />
+    <Compile Include="Services\SendGrid.cs" />
+    <Compile Include="Services\UserRepository.cs" />
+    <Compile Include="UseCase\SendEmailUseCase.cs" />
     <Compile Include="UseCase\UserUseCase.cs" />
     <Compile Include="User.cs" />
     <Compile Include="UserFactory.cs" />
     <Compile Include="Usuario.cs" />
+    <Compile Include="ValueObjects\NIF.cs" />
+    <Compile Include="ValueObjects\UserEmail.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
