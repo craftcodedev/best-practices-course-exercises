@@ -1,5 +1,5 @@
-﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace CraftCodeApp.src.Shared.Domain
 {
@@ -34,6 +34,12 @@ namespace CraftCodeApp.src.Shared.Domain
             return !thisValues.MoveNext() && !otherValues.MoveNext();
         }
 
-
+        public override int GetHashCode()
+        {
+            return GetAtomicValues()
+             .Select(x => x != null ? x.GetHashCode() : 0)
+             .Aggregate((x, y) => x ^ y);
+        }
     }
 }
+

@@ -21,6 +21,7 @@ namespace CraftCodeApp.src.Shared.Infrastructure.Bus.Event
             if (this.eventHandlers.ContainsKey(eventName))
             {
                 eventHandlers = this.eventHandlers[eventName];
+                this.eventHandlers.Remove(eventName);
             }
 
             eventHandlers.Add(className, eventHandler);
