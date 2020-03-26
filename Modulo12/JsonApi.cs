@@ -1,2 +1,2 @@
-//1. Install mysql package
+//1. Install JSONAPI package
 //JsonApiSerializer version 1.7.4
