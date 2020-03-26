@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Dependency Inversion\DIP_Example\bin\Debug\netcoreapp2.1\DIP_Example.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Dependency Inversion\DIP_Example\bin\Debug\netcoreapp2.1\DIP_Example.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Dependency Inversion\DIP_Example\bin\Debug\netcoreapp2.1\DIP_Example.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Dependency Inversion\DIP_Example\bin\Debug\netcoreapp2.1\DIP_Example.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Dependency Inversion\DIP_Example\bin\Debug\netcoreapp2.1\DIP_Example.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Dependency Inversion\DIP_Example\obj\Debug\netcoreapp2.1\DIP_Example.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Dependency Inversion\DIP_Example\obj\Debug\netcoreapp2.1\DIP_Example.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Dependency Inversion\DIP_Example\obj\Debug\netcoreapp2.1\DIP_Example.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Dependency Inversion\DIP_Example\obj\Debug\netcoreapp2.1\DIP_Example.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Dependency Inversion\DIP_Example\obj\Debug\netcoreapp2.1\DIP_Example.pdb

@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Proxy\ExampleDesignPatterns\Structural\ProxyExample\bin\Debug\netcoreapp2.2\ProxyExample.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Proxy\ExampleDesignPatterns\Structural\ProxyExample\bin\Debug\netcoreapp2.2\ProxyExample.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Proxy\ExampleDesignPatterns\Structural\ProxyExample\bin\Debug\netcoreapp2.2\ProxyExample.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Proxy\ExampleDesignPatterns\Structural\ProxyExample\bin\Debug\netcoreapp2.2\ProxyExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Proxy\ExampleDesignPatterns\Structural\ProxyExample\bin\Debug\netcoreapp2.2\ProxyExample.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Proxy\ExampleDesignPatterns\Structural\ProxyExample\obj\Debug\netcoreapp2.2\ProxyExample.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Proxy\ExampleDesignPatterns\Structural\ProxyExample\obj\Debug\netcoreapp2.2\ProxyExample.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Proxy\ExampleDesignPatterns\Structural\ProxyExample\obj\Debug\netcoreapp2.2\ProxyExample.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Proxy\ExampleDesignPatterns\Structural\ProxyExample\obj\Debug\netcoreapp2.2\ProxyExample.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Proxy\ExampleDesignPatterns\Structural\ProxyExample\obj\Debug\netcoreapp2.2\ProxyExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Proxy\ExampleDesignPatterns\Structural\ProxyExample\obj\Debug\netcoreapp2.2\ProxyExample.pdb

@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\obj\Debug\netcoreapp2.1\MathUtils.Test.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\obj\Debug\netcoreapp2.1\MathUtils.Test.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\obj\Debug\netcoreapp2.1\MathUtils.Test.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\obj\Debug\netcoreapp2.1\MathUtils.Test.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.1\MathUtils.Test.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.1\MathUtils.Test.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.1\MathUtils.Test.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.1\MathUtils.Test.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.1\MathUtils.Test.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.1\MathWithNUnit.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\bin\Debug\netcoreapp2.1\MathWithNUnit.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\obj\Debug\netcoreapp2.1\MathUtils.Test.csproj.CopyComplete
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\obj\Debug\netcoreapp2.1\MathUtils.Test.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathUtils.Test\obj\Debug\netcoreapp2.1\MathUtils.Test.pdb

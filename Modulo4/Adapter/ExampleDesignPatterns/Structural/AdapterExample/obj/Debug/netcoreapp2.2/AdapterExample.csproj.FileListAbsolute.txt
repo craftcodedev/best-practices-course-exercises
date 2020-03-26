@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Adapter\ExampleDesignPatterns\Structural\AdapterExample\obj\Debug\netcoreapp2.2\AdapterExample.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Adapter\ExampleDesignPatterns\Structural\AdapterExample\obj\Debug\netcoreapp2.2\AdapterExample.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Adapter\ExampleDesignPatterns\Structural\AdapterExample\obj\Debug\netcoreapp2.2\AdapterExample.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Adapter\ExampleDesignPatterns\Structural\AdapterExample\obj\Debug\netcoreapp2.2\AdapterExample.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Adapter\ExampleDesignPatterns\Structural\AdapterExample\bin\Debug\netcoreapp2.2\AdapterExample.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Adapter\ExampleDesignPatterns\Structural\AdapterExample\bin\Debug\netcoreapp2.2\AdapterExample.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Adapter\ExampleDesignPatterns\Structural\AdapterExample\bin\Debug\netcoreapp2.2\AdapterExample.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Adapter\ExampleDesignPatterns\Structural\AdapterExample\bin\Debug\netcoreapp2.2\AdapterExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Adapter\ExampleDesignPatterns\Structural\AdapterExample\bin\Debug\netcoreapp2.2\AdapterExample.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Adapter\ExampleDesignPatterns\Structural\AdapterExample\obj\Debug\netcoreapp2.2\AdapterExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Adapter\ExampleDesignPatterns\Structural\AdapterExample\obj\Debug\netcoreapp2.2\AdapterExample.pdb

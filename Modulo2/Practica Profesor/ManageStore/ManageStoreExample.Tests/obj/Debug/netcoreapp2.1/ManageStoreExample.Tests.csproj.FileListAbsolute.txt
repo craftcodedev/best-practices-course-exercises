@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\bin\Debug\netcoreapp2.1\ManageStoreExample.Tests.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\bin\Debug\netcoreapp2.1\ManageStoreExample.Tests.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\obj\Debug\netcoreapp2.1\ManageStoreExample.Tests.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\obj\Debug\netcoreapp2.1\ManageStoreExample.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\obj\Debug\netcoreapp2.1\ManageStoreExample.Tests.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\obj\Debug\netcoreapp2.1\ManageStoreExample.Tests.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\bin\Debug\netcoreapp2.1\ManageStoreExample.Tests.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\bin\Debug\netcoreapp2.1\ManageStoreExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\bin\Debug\netcoreapp2.1\ManageStoreExample.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\obj\Debug\netcoreapp2.1\ManageStoreExample.Tests.csproj.CopyComplete
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\obj\Debug\netcoreapp2.1\ManageStoreExample.Tests.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Practica Profesor\ManageStore\ManageStoreExample.Tests\obj\Debug\netcoreapp2.1\ManageStoreExample.Tests.pdb

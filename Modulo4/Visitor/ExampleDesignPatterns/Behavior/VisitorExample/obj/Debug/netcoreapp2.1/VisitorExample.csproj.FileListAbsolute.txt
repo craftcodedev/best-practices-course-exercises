@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Visitor\ExampleDesignPatterns\Behavior\VisitorExample\bin\Debug\netcoreapp2.1\VisitorExample.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Visitor\ExampleDesignPatterns\Behavior\VisitorExample\bin\Debug\netcoreapp2.1\VisitorExample.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Visitor\ExampleDesignPatterns\Behavior\VisitorExample\bin\Debug\netcoreapp2.1\VisitorExample.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Visitor\ExampleDesignPatterns\Behavior\VisitorExample\bin\Debug\netcoreapp2.1\VisitorExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Visitor\ExampleDesignPatterns\Behavior\VisitorExample\bin\Debug\netcoreapp2.1\VisitorExample.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Visitor\ExampleDesignPatterns\Behavior\VisitorExample\obj\Debug\netcoreapp2.1\VisitorExample.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Visitor\ExampleDesignPatterns\Behavior\VisitorExample\obj\Debug\netcoreapp2.1\VisitorExample.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Visitor\ExampleDesignPatterns\Behavior\VisitorExample\obj\Debug\netcoreapp2.1\VisitorExample.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Visitor\ExampleDesignPatterns\Behavior\VisitorExample\obj\Debug\netcoreapp2.1\VisitorExample.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Visitor\ExampleDesignPatterns\Behavior\VisitorExample\obj\Debug\netcoreapp2.1\VisitorExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Visitor\ExampleDesignPatterns\Behavior\VisitorExample\obj\Debug\netcoreapp2.1\VisitorExample.pdb

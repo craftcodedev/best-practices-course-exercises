@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Factory Method\ExampleDesignPatterns\Creational\FactoryExample\bin\Debug\netcoreapp2.2\FactoryExample.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Factory Method\ExampleDesignPatterns\Creational\FactoryExample\bin\Debug\netcoreapp2.2\FactoryExample.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Factory Method\ExampleDesignPatterns\Creational\FactoryExample\bin\Debug\netcoreapp2.2\FactoryExample.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Factory Method\ExampleDesignPatterns\Creational\FactoryExample\bin\Debug\netcoreapp2.2\FactoryExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Factory Method\ExampleDesignPatterns\Creational\FactoryExample\bin\Debug\netcoreapp2.2\FactoryExample.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Factory Method\ExampleDesignPatterns\Creational\FactoryExample\obj\Debug\netcoreapp2.2\FactoryExample.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Factory Method\ExampleDesignPatterns\Creational\FactoryExample\obj\Debug\netcoreapp2.2\FactoryExample.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Factory Method\ExampleDesignPatterns\Creational\FactoryExample\obj\Debug\netcoreapp2.2\FactoryExample.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Factory Method\ExampleDesignPatterns\Creational\FactoryExample\obj\Debug\netcoreapp2.2\FactoryExample.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Factory Method\ExampleDesignPatterns\Creational\FactoryExample\obj\Debug\netcoreapp2.2\FactoryExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Factory Method\ExampleDesignPatterns\Creational\FactoryExample\obj\Debug\netcoreapp2.2\FactoryExample.pdb

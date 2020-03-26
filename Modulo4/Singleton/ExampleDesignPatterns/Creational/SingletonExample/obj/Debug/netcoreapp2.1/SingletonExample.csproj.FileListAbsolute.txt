@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Singleton\ExampleDesignPatterns\Creational\SingletonExample\obj\Debug\netcoreapp2.1\SingletonExample.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Singleton\ExampleDesignPatterns\Creational\SingletonExample\obj\Debug\netcoreapp2.1\SingletonExample.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Singleton\ExampleDesignPatterns\Creational\SingletonExample\obj\Debug\netcoreapp2.1\SingletonExample.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Singleton\ExampleDesignPatterns\Creational\SingletonExample\bin\Debug\netcoreapp2.1\SingletonExample.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Singleton\ExampleDesignPatterns\Creational\SingletonExample\bin\Debug\netcoreapp2.1\SingletonExample.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Singleton\ExampleDesignPatterns\Creational\SingletonExample\bin\Debug\netcoreapp2.1\SingletonExample.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Singleton\ExampleDesignPatterns\Creational\SingletonExample\bin\Debug\netcoreapp2.1\SingletonExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Singleton\ExampleDesignPatterns\Creational\SingletonExample\bin\Debug\netcoreapp2.1\SingletonExample.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Singleton\ExampleDesignPatterns\Creational\SingletonExample\obj\Debug\netcoreapp2.1\SingletonExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Singleton\ExampleDesignPatterns\Creational\SingletonExample\obj\Debug\netcoreapp2.1\SingletonExample.pdb

@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Test Doubles\ManageStore\ManageStoreExample\obj\Debug\netcoreapp2.1\ManageStoreExample.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Test Doubles\ManageStore\ManageStoreExample\obj\Debug\netcoreapp2.1\ManageStoreExample.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Test Doubles\ManageStore\ManageStoreExample\obj\Debug\netcoreapp2.1\ManageStoreExample.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Test Doubles\ManageStore\ManageStoreExample\bin\Debug\netcoreapp2.1\ManageStoreExample.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Test Doubles\ManageStore\ManageStoreExample\bin\Debug\netcoreapp2.1\ManageStoreExample.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Test Doubles\ManageStore\ManageStoreExample\bin\Debug\netcoreapp2.1\ManageStoreExample.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Test Doubles\ManageStore\ManageStoreExample\bin\Debug\netcoreapp2.1\ManageStoreExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Test Doubles\ManageStore\ManageStoreExample\bin\Debug\netcoreapp2.1\ManageStoreExample.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Test Doubles\ManageStore\ManageStoreExample\obj\Debug\netcoreapp2.1\ManageStoreExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Test Doubles\ManageStore\ManageStoreExample\obj\Debug\netcoreapp2.1\ManageStoreExample.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Test Doubles\ManageStore\ManageStoreExample\obj\Debug\netcoreapp2.1\ManageStoreExample.csprojAssemblyReference.cache

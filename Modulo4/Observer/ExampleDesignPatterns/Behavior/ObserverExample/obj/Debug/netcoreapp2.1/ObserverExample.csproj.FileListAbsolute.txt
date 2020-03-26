@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Observer\ExampleDesignPatterns\Behavior\ObserverExample\bin\Debug\netcoreapp2.1\ObserverExample.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Observer\ExampleDesignPatterns\Behavior\ObserverExample\bin\Debug\netcoreapp2.1\ObserverExample.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Observer\ExampleDesignPatterns\Behavior\ObserverExample\bin\Debug\netcoreapp2.1\ObserverExample.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Observer\ExampleDesignPatterns\Behavior\ObserverExample\bin\Debug\netcoreapp2.1\ObserverExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Observer\ExampleDesignPatterns\Behavior\ObserverExample\bin\Debug\netcoreapp2.1\ObserverExample.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Observer\ExampleDesignPatterns\Behavior\ObserverExample\obj\Debug\netcoreapp2.1\ObserverExample.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Observer\ExampleDesignPatterns\Behavior\ObserverExample\obj\Debug\netcoreapp2.1\ObserverExample.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Observer\ExampleDesignPatterns\Behavior\ObserverExample\obj\Debug\netcoreapp2.1\ObserverExample.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Observer\ExampleDesignPatterns\Behavior\ObserverExample\obj\Debug\netcoreapp2.1\ObserverExample.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Observer\ExampleDesignPatterns\Behavior\ObserverExample\obj\Debug\netcoreapp2.1\ObserverExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Observer\ExampleDesignPatterns\Behavior\ObserverExample\obj\Debug\netcoreapp2.1\ObserverExample.pdb

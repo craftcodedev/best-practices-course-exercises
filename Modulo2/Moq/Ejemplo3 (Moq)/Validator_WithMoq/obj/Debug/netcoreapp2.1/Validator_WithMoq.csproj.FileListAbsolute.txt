@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Moq\Ejemplo3 (Moq)\Validator_WithMoq\bin\Debug\netcoreapp2.1\Validator_WithMoq.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Moq\Ejemplo3 (Moq)\Validator_WithMoq\bin\Debug\netcoreapp2.1\Validator_WithMoq.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Moq\Ejemplo3 (Moq)\Validator_WithMoq\bin\Debug\netcoreapp2.1\Validator_WithMoq.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Moq\Ejemplo3 (Moq)\Validator_WithMoq\obj\Debug\netcoreapp2.1\Validator_WithMoq.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Moq\Ejemplo3 (Moq)\Validator_WithMoq\obj\Debug\netcoreapp2.1\Validator_WithMoq.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Moq\Ejemplo3 (Moq)\Validator_WithMoq\obj\Debug\netcoreapp2.1\Validator_WithMoq.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Moq\Ejemplo3 (Moq)\Validator_WithMoq\obj\Debug\netcoreapp2.1\Validator_WithMoq.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Moq\Ejemplo3 (Moq)\Validator_WithMoq\obj\Debug\netcoreapp2.1\Validator_WithMoq.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\Moq\Ejemplo3 (Moq)\Validator_WithMoq\obj\Debug\netcoreapp2.1\Validator_WithMoq.pdb

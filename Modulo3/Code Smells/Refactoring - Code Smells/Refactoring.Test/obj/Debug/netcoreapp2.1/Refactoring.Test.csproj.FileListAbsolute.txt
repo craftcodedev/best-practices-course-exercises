@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\bin\Debug\netcoreapp2.1\Refactoring.Test.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\bin\Debug\netcoreapp2.1\Refactoring.Test.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\bin\Debug\netcoreapp2.1\Refactoring.Test.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\bin\Debug\netcoreapp2.1\Refactoring.Test.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\bin\Debug\netcoreapp2.1\Refactoring.Test.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\bin\Debug\netcoreapp2.1\RefactoringCodeSmells.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\bin\Debug\netcoreapp2.1\RefactoringCodeSmells.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\obj\Debug\netcoreapp2.1\Refactoring.Test.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\obj\Debug\netcoreapp2.1\Refactoring.Test.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\obj\Debug\netcoreapp2.1\Refactoring.Test.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\obj\Debug\netcoreapp2.1\Refactoring.Test.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\obj\Debug\netcoreapp2.1\Refactoring.Test.csproj.CopyComplete
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\obj\Debug\netcoreapp2.1\Refactoring.Test.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\Refactoring.Test\obj\Debug\netcoreapp2.1\Refactoring.Test.pdb

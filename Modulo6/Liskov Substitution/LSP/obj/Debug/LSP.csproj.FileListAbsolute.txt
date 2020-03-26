@@ -1,7 +1,0 @@
-C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Liskov Substitution\ExamplesSOLID\LSP\bin\Debug\LSP.exe.config
-C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Liskov Substitution\ExamplesSOLID\LSP\bin\Debug\LSP.exe
-C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Liskov Substitution\ExamplesSOLID\LSP\bin\Debug\LSP.pdb
-C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Liskov Substitution\ExamplesSOLID\LSP\obj\Debug\LSP.csprojAssemblyReference.cache
-C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Liskov Substitution\ExamplesSOLID\LSP\obj\Debug\LSP.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Liskov Substitution\ExamplesSOLID\LSP\obj\Debug\LSP.exe
-C:\Users\Usuario\Documents\CraftCodeExamples\Módulo 6\Liskov Substitution\ExamplesSOLID\LSP\obj\Debug\LSP.pdb

@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Decorator\ExampleDesignPatterns\Structural\DecoratorExample\bin\Debug\netcoreapp2.1\DecoratorExample.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Decorator\ExampleDesignPatterns\Structural\DecoratorExample\bin\Debug\netcoreapp2.1\DecoratorExample.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Decorator\ExampleDesignPatterns\Structural\DecoratorExample\bin\Debug\netcoreapp2.1\DecoratorExample.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Decorator\ExampleDesignPatterns\Structural\DecoratorExample\bin\Debug\netcoreapp2.1\DecoratorExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Decorator\ExampleDesignPatterns\Structural\DecoratorExample\bin\Debug\netcoreapp2.1\DecoratorExample.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Decorator\ExampleDesignPatterns\Structural\DecoratorExample\obj\Debug\netcoreapp2.1\DecoratorExample.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Decorator\ExampleDesignPatterns\Structural\DecoratorExample\obj\Debug\netcoreapp2.1\DecoratorExample.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Decorator\ExampleDesignPatterns\Structural\DecoratorExample\obj\Debug\netcoreapp2.1\DecoratorExample.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Decorator\ExampleDesignPatterns\Structural\DecoratorExample\obj\Debug\netcoreapp2.1\DecoratorExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Decorator\ExampleDesignPatterns\Structural\DecoratorExample\obj\Debug\netcoreapp2.1\DecoratorExample.pdb

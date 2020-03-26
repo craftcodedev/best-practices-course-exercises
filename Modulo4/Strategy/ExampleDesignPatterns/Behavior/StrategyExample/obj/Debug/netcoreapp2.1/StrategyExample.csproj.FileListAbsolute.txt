@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Strategy\ExampleDesignPatterns\Behavior\StrategyExample\bin\Debug\netcoreapp2.1\StrategyExample.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Strategy\ExampleDesignPatterns\Behavior\StrategyExample\bin\Debug\netcoreapp2.1\StrategyExample.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Strategy\ExampleDesignPatterns\Behavior\StrategyExample\bin\Debug\netcoreapp2.1\StrategyExample.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Strategy\ExampleDesignPatterns\Behavior\StrategyExample\bin\Debug\netcoreapp2.1\StrategyExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Strategy\ExampleDesignPatterns\Behavior\StrategyExample\bin\Debug\netcoreapp2.1\StrategyExample.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Strategy\ExampleDesignPatterns\Behavior\StrategyExample\obj\Debug\netcoreapp2.1\StrategyExample.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Strategy\ExampleDesignPatterns\Behavior\StrategyExample\obj\Debug\netcoreapp2.1\StrategyExample.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Strategy\ExampleDesignPatterns\Behavior\StrategyExample\obj\Debug\netcoreapp2.1\StrategyExample.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Strategy\ExampleDesignPatterns\Behavior\StrategyExample\obj\Debug\netcoreapp2.1\StrategyExample.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Strategy\ExampleDesignPatterns\Behavior\StrategyExample\obj\Debug\netcoreapp2.1\StrategyExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Strategy\ExampleDesignPatterns\Behavior\StrategyExample\obj\Debug\netcoreapp2.1\StrategyExample.pdb

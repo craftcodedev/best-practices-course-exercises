@@ -1,8 +1,5 @@
 ﻿using NUnit.Framework;
 using Refactoring.GuardClause;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Refactoring.Test.GuardClause
 {

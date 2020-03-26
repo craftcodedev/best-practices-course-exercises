@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\RefactoringCodeSmells\bin\Debug\netcoreapp2.1\RefactoringCodeSmells.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\RefactoringCodeSmells\bin\Debug\netcoreapp2.1\RefactoringCodeSmells.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\RefactoringCodeSmells\bin\Debug\netcoreapp2.1\RefactoringCodeSmells.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\RefactoringCodeSmells\bin\Debug\netcoreapp2.1\RefactoringCodeSmells.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\RefactoringCodeSmells\obj\Debug\netcoreapp2.1\RefactoringCodeSmells.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\RefactoringCodeSmells\obj\Debug\netcoreapp2.1\RefactoringCodeSmells.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\RefactoringCodeSmells\obj\Debug\netcoreapp2.1\RefactoringCodeSmells.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\RefactoringCodeSmells\bin\Debug\netcoreapp2.1\RefactoringCodeSmells.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\RefactoringCodeSmells\obj\Debug\netcoreapp2.1\RefactoringCodeSmells.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Code Smells\Refactoring - Code Smells\RefactoringCodeSmells\obj\Debug\netcoreapp2.1\RefactoringCodeSmells.pdb

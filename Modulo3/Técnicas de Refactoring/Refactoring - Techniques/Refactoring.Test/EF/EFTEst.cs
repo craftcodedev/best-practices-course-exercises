@@ -7,7 +7,7 @@ using System.Text;
 namespace Refactoring.Test.EF
 {
     [TestFixture]
-    class EFTEst
+    class EFTest
     {
         [Test]
         public void ItShouldReturnAmountWnenGetIsExecuted()

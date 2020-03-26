@@ -1,0 +1,8 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathWithNUnit\bin\Debug\netcoreapp2.1\MathWithNUnit.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathWithNUnit\bin\Debug\netcoreapp2.1\MathWithNUnit.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathWithNUnit\bin\Debug\netcoreapp2.1\MathWithNUnit.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathWithNUnit\obj\Debug\netcoreapp2.1\MathWithNUnit.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathWithNUnit\obj\Debug\netcoreapp2.1\MathWithNUnit.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathWithNUnit\obj\Debug\netcoreapp2.1\MathWithNUnit.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathWithNUnit\obj\Debug\netcoreapp2.1\MathWithNUnit.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\NUnit\Ejemplo (NUnit)\MathWithNUnit\obj\Debug\netcoreapp2.1\MathWithNUnit.pdb

@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\TDD\Ejercicio (TDD)\EjemploTDD\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\TDD\Ejercicio (TDD)\EjemploTDD\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\TDD\Ejercicio (TDD)\EjemploTDD\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\TDD\Ejercicio (TDD)\EjemploTDD\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\TDD\Ejercicio (TDD)\EjemploTDD\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\TDD\Ejercicio (TDD)\EjemploTDD\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\TDD\Ejercicio (TDD)\EjemploTDD\FizzBuzz\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\TDD\Ejercicio (TDD)\EjemploTDD\FizzBuzz\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\TDD\Ejercicio (TDD)\EjemploTDD\FizzBuzz\bin\Debug\netcoreapp2.2\nunit.engine.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\TDD\Ejercicio (TDD)\EjemploTDD\FizzBuzz\bin\Debug\netcoreapp2.2\nunit.engine.api.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\TDD\Ejercicio (TDD)\EjemploTDD\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\TDD\Ejercicio (TDD)\EjemploTDD\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo2\TDD\Ejercicio (TDD)\EjemploTDD\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.pdb

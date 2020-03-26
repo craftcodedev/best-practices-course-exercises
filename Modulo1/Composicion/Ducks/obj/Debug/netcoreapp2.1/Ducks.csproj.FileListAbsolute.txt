@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\Composicion\Ducks\bin\Debug\netcoreapp2.1\Ducks.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\Composicion\Ducks\bin\Debug\netcoreapp2.1\Ducks.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\Composicion\Ducks\bin\Debug\netcoreapp2.1\Ducks.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\Composicion\Ducks\bin\Debug\netcoreapp2.1\Ducks.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\Composicion\Ducks\bin\Debug\netcoreapp2.1\Ducks.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\Composicion\Ducks\obj\Debug\netcoreapp2.1\Ducks.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\Composicion\Ducks\obj\Debug\netcoreapp2.1\Ducks.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\Composicion\Ducks\obj\Debug\netcoreapp2.1\Ducks.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\Composicion\Ducks\obj\Debug\netcoreapp2.1\Ducks.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\Composicion\Ducks\obj\Debug\netcoreapp2.1\Ducks.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\Composicion\Ducks\obj\Debug\netcoreapp2.1\Ducks.pdb

@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Clean Code\Refactoring - Clean Code\RefactoringExample\bin\Debug\netcoreapp2.1\RefactoringExample.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Clean Code\Refactoring - Clean Code\RefactoringExample\bin\Debug\netcoreapp2.1\RefactoringExample.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Clean Code\Refactoring - Clean Code\RefactoringExample\bin\Debug\netcoreapp2.1\RefactoringExample.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Clean Code\Refactoring - Clean Code\RefactoringExample\bin\Debug\netcoreapp2.1\RefactoringExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Clean Code\Refactoring - Clean Code\RefactoringExample\obj\Debug\netcoreapp2.1\RefactoringExample.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Clean Code\Refactoring - Clean Code\RefactoringExample\obj\Debug\netcoreapp2.1\RefactoringExample.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Clean Code\Refactoring - Clean Code\RefactoringExample\obj\Debug\netcoreapp2.1\RefactoringExample.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Clean Code\Refactoring - Clean Code\RefactoringExample\bin\Debug\netcoreapp2.1\RefactoringExample.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Clean Code\Refactoring - Clean Code\RefactoringExample\obj\Debug\netcoreapp2.1\RefactoringExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Clean Code\Refactoring - Clean Code\RefactoringExample\obj\Debug\netcoreapp2.1\RefactoringExample.pdb

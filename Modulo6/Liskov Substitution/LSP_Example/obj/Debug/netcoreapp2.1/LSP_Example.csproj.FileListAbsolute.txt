@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Liskov Substitution\LSP_Example\bin\Debug\netcoreapp2.1\LSP_Example.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Liskov Substitution\LSP_Example\bin\Debug\netcoreapp2.1\LSP_Example.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Liskov Substitution\LSP_Example\bin\Debug\netcoreapp2.1\LSP_Example.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Liskov Substitution\LSP_Example\bin\Debug\netcoreapp2.1\LSP_Example.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Liskov Substitution\LSP_Example\bin\Debug\netcoreapp2.1\LSP_Example.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Liskov Substitution\LSP_Example\obj\Debug\netcoreapp2.1\LSP_Example.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Liskov Substitution\LSP_Example\obj\Debug\netcoreapp2.1\LSP_Example.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Liskov Substitution\LSP_Example\obj\Debug\netcoreapp2.1\LSP_Example.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Liskov Substitution\LSP_Example\obj\Debug\netcoreapp2.1\LSP_Example.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Liskov Substitution\LSP_Example\obj\Debug\netcoreapp2.1\LSP_Example.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\Liskov Substitution\LSP_Example\obj\Debug\netcoreapp2.1\LSP_Example.pdb

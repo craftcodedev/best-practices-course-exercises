@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas Test\Modulo1\Fundamentos\Fundamentals\bin\Debug\netcoreapp2.1\Fundamentals.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas Test\Modulo1\Fundamentos\Fundamentals\bin\Debug\netcoreapp2.1\Fundamentals.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas Test\Modulo1\Fundamentos\Fundamentals\bin\Debug\netcoreapp2.1\Fundamentals.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas Test\Modulo1\Fundamentos\Fundamentals\bin\Debug\netcoreapp2.1\Fundamentals.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas Test\Modulo1\Fundamentos\Fundamentals\bin\Debug\netcoreapp2.1\Fundamentals.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas Test\Modulo1\Fundamentos\Fundamentals\obj\Debug\netcoreapp2.1\Fundamentals.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas Test\Modulo1\Fundamentos\Fundamentals\obj\Debug\netcoreapp2.1\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas Test\Modulo1\Fundamentos\Fundamentals\obj\Debug\netcoreapp2.1\Fundamentals.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas Test\Modulo1\Fundamentos\Fundamentals\obj\Debug\netcoreapp2.1\Fundamentals.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas Test\Modulo1\Fundamentos\Fundamentals\obj\Debug\netcoreapp2.1\Fundamentals.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\Practicas Test\Modulo1\Fundamentos\Fundamentals\obj\Debug\netcoreapp2.1\Fundamentals.pdb

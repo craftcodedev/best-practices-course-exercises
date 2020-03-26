@@ -1,8 +1,5 @@
 ﻿using NUnit.Framework;
 using RefactorController.src.Model;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace RefactorController.Tests.ValueObjects
 {

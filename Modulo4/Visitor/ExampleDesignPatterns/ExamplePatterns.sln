@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavior", "Behavior", "{A9F03E35-1913-4957-8F3E-BDFF763FFEFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Behavior\Visitor\Visitor.csproj", "{03F25F6C-6549-4E0C-9126-EDBEA91BB476}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorExample", "Behavior\VisitorExample\VisitorExample.csproj", "{5C49657C-DCE4-412C-80CD-D4BEC47DE984}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{03F25F6C-6549-4E0C-9126-EDBEA91BB476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{03F25F6C-6549-4E0C-9126-EDBEA91BB476}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{03F25F6C-6549-4E0C-9126-EDBEA91BB476}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{03F25F6C-6549-4E0C-9126-EDBEA91BB476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C49657C-DCE4-412C-80CD-D4BEC47DE984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C49657C-DCE4-412C-80CD-D4BEC47DE984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C49657C-DCE4-412C-80CD-D4BEC47DE984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C49657C-DCE4-412C-80CD-D4BEC47DE984}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{03F25F6C-6549-4E0C-9126-EDBEA91BB476} = {A9F03E35-1913-4957-8F3E-BDFF763FFEFC}
+		{5C49657C-DCE4-412C-80CD-D4BEC47DE984} = {A9F03E35-1913-4957-8F3E-BDFF763FFEFC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B03C72A3-A52F-4C8F-90B1-D944C9813F9B}

@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\OpenClosed\OCP_Example\bin\Debug\netcoreapp2.1\OCP_Example.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\OpenClosed\OCP_Example\bin\Debug\netcoreapp2.1\OCP_Example.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\OpenClosed\OCP_Example\bin\Debug\netcoreapp2.1\OCP_Example.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\OpenClosed\OCP_Example\bin\Debug\netcoreapp2.1\OCP_Example.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\OpenClosed\OCP_Example\bin\Debug\netcoreapp2.1\OCP_Example.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\OpenClosed\OCP_Example\obj\Debug\netcoreapp2.1\OCP_Example.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\OpenClosed\OCP_Example\obj\Debug\netcoreapp2.1\OCP_Example.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\OpenClosed\OCP_Example\obj\Debug\netcoreapp2.1\OCP_Example.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\OpenClosed\OCP_Example\obj\Debug\netcoreapp2.1\OCP_Example.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\OpenClosed\OCP_Example\obj\Debug\netcoreapp2.1\OCP_Example.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo6\OpenClosed\OCP_Example\obj\Debug\netcoreapp2.1\OCP_Example.pdb

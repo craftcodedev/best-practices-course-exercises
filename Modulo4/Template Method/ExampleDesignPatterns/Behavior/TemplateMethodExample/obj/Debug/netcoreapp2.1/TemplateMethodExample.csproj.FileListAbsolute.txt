@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Template Method\ExampleDesignPatterns\Behavior\TemplateMethodExample\obj\Debug\netcoreapp2.1\TemplateMethodExample.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Template Method\ExampleDesignPatterns\Behavior\TemplateMethodExample\obj\Debug\netcoreapp2.1\TemplateMethodExample.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Template Method\ExampleDesignPatterns\Behavior\TemplateMethodExample\obj\Debug\netcoreapp2.1\TemplateMethodExample.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Template Method\ExampleDesignPatterns\Behavior\TemplateMethodExample\bin\Debug\netcoreapp2.1\TemplateMethodExample.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Template Method\ExampleDesignPatterns\Behavior\TemplateMethodExample\bin\Debug\netcoreapp2.1\TemplateMethodExample.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Template Method\ExampleDesignPatterns\Behavior\TemplateMethodExample\bin\Debug\netcoreapp2.1\TemplateMethodExample.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Template Method\ExampleDesignPatterns\Behavior\TemplateMethodExample\bin\Debug\netcoreapp2.1\TemplateMethodExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Template Method\ExampleDesignPatterns\Behavior\TemplateMethodExample\bin\Debug\netcoreapp2.1\TemplateMethodExample.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Template Method\ExampleDesignPatterns\Behavior\TemplateMethodExample\obj\Debug\netcoreapp2.1\TemplateMethodExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Template Method\ExampleDesignPatterns\Behavior\TemplateMethodExample\obj\Debug\netcoreapp2.1\TemplateMethodExample.pdb

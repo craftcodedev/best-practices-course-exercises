@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Simple Factory\ExampleDesignPatterns\Creational\SimpleFactoryExample\bin\Debug\netcoreapp2.1\SimpleFactoryExample.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Simple Factory\ExampleDesignPatterns\Creational\SimpleFactoryExample\bin\Debug\netcoreapp2.1\SimpleFactoryExample.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Simple Factory\ExampleDesignPatterns\Creational\SimpleFactoryExample\bin\Debug\netcoreapp2.1\SimpleFactoryExample.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Simple Factory\ExampleDesignPatterns\Creational\SimpleFactoryExample\bin\Debug\netcoreapp2.1\SimpleFactoryExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Simple Factory\ExampleDesignPatterns\Creational\SimpleFactoryExample\bin\Debug\netcoreapp2.1\SimpleFactoryExample.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Simple Factory\ExampleDesignPatterns\Creational\SimpleFactoryExample\obj\Debug\netcoreapp2.1\SimpleFactoryExample.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Simple Factory\ExampleDesignPatterns\Creational\SimpleFactoryExample\obj\Debug\netcoreapp2.1\SimpleFactoryExample.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Simple Factory\ExampleDesignPatterns\Creational\SimpleFactoryExample\obj\Debug\netcoreapp2.1\SimpleFactoryExample.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Simple Factory\ExampleDesignPatterns\Creational\SimpleFactoryExample\obj\Debug\netcoreapp2.1\SimpleFactoryExample.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo4\Simple Factory\ExampleDesignPatterns\Creational\SimpleFactoryExample\obj\Debug\netcoreapp2.1\SimpleFactoryExample.pdb

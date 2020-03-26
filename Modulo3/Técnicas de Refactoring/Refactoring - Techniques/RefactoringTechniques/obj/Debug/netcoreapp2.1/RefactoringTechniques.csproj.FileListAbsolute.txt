@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Técnicas de Refactoring\Refactoring - Techniques\RefactoringTechniques\bin\Debug\netcoreapp2.1\RefactoringTechniques.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Técnicas de Refactoring\Refactoring - Techniques\RefactoringTechniques\bin\Debug\netcoreapp2.1\RefactoringTechniques.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Técnicas de Refactoring\Refactoring - Techniques\RefactoringTechniques\bin\Debug\netcoreapp2.1\RefactoringTechniques.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Técnicas de Refactoring\Refactoring - Techniques\RefactoringTechniques\bin\Debug\netcoreapp2.1\RefactoringTechniques.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Técnicas de Refactoring\Refactoring - Techniques\RefactoringTechniques\bin\Debug\netcoreapp2.1\RefactoringTechniques.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Técnicas de Refactoring\Refactoring - Techniques\RefactoringTechniques\obj\Debug\netcoreapp2.1\RefactoringTechniques.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Técnicas de Refactoring\Refactoring - Techniques\RefactoringTechniques\obj\Debug\netcoreapp2.1\RefactoringTechniques.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Técnicas de Refactoring\Refactoring - Techniques\RefactoringTechniques\obj\Debug\netcoreapp2.1\RefactoringTechniques.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Técnicas de Refactoring\Refactoring - Techniques\RefactoringTechniques\obj\Debug\netcoreapp2.1\RefactoringTechniques.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Técnicas de Refactoring\Refactoring - Techniques\RefactoringTechniques\obj\Debug\netcoreapp2.1\RefactoringTechniques.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo3\Técnicas de Refactoring\Refactoring - Techniques\RefactoringTechniques\obj\Debug\netcoreapp2.1\RefactoringTechniques.pdb
