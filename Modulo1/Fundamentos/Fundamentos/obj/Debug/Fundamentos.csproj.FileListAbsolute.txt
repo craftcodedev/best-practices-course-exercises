@@ -1,5 +1,0 @@
-/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Fundamentos/Fundamentos/bin/Debug/Fundamentos.exe
-/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Fundamentos/Fundamentos/bin/Debug/Fundamentos.pdb
-/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Fundamentos/Fundamentos/obj/Debug/Fundamentos.csprojAssemblyReference.cache
-/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Fundamentos/Fundamentos/obj/Debug/Fundamentos.exe
-/Users/Blashak/Projects/best-practices-course-exercises/Modulo1/Fundamentos/Fundamentos/obj/Debug/Fundamentos.pdb
