@@ -1,0 +1,10 @@
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/bin/Debug/netcoreapp2.1/AdapterExample.deps.json
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/bin/Debug/netcoreapp2.1/AdapterExample.runtimeconfig.json
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/bin/Debug/netcoreapp2.1/AdapterExample.runtimeconfig.dev.json
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/bin/Debug/netcoreapp2.1/AdapterExample.dll
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/bin/Debug/netcoreapp2.1/AdapterExample.pdb
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/obj/Debug/netcoreapp2.1/AdapterExample.csprojAssemblyReference.cache
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/obj/Debug/netcoreapp2.1/AdapterExample.AssemblyInfoInputs.cache
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/obj/Debug/netcoreapp2.1/AdapterExample.AssemblyInfo.cs
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/obj/Debug/netcoreapp2.1/AdapterExample.dll
+/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/obj/Debug/netcoreapp2.1/AdapterExample.pdb

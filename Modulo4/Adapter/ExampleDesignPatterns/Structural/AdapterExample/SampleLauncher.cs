@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Adapter.Student;
+using System;
 
 namespace AdapterExample
 {
@@ -6,7 +7,16 @@ namespace AdapterExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //NO ADAPTER
+            StudentApi sapi = new StudentApi();
+            var xml = sapi.GetStudentsInXML();
+            Console.WriteLine(xml);
+
+            //ADAPTER
+            sapi = new StudentApi();
+            IStudentApiFormatAdapter adapter = new StudentApiJsonAdapter(sapi);
+            var json = adapter.GetStudents();
+            Console.WriteLine(json);
         }
     }
 }
