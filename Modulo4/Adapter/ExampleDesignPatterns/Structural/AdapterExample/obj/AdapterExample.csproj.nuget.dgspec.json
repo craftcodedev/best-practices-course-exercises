@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/AdapterExample.csproj": {}
+  },
+  "projects": {
+    "/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/AdapterExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/AdapterExample.csproj",
+        "projectName": "AdapterExample",
+        "projectPath": "/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/AdapterExample.csproj",
+        "packagesPath": "/Users/Blashak/.nuget/packages/",
+        "outputPath": "/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Blashak/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
