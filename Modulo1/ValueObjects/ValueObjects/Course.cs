@@ -6,26 +6,15 @@ namespace ValueObjects
 {
     public class Course
     {
-        private string name;
+        private CourseName name;
 
-        public Course(string name)
+        public Course(CourseName name)
         {
-            if (name == "")
-            {
-                throw new System.Exception("Invalid name");
-            }
-
             this.name = name;
         }
 
-        public string Name()
+        public CourseName Name()
         {
-            return this.name;
-        }
-
-        public string Description()
-        {
-            this.name = "You will learn " + this.name;
             return this.name;
         }
     }
