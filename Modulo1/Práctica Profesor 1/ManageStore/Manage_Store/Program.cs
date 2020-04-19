@@ -18,11 +18,11 @@ namespace Manage_Store
             data.Add("name", Console.ReadLine());
             Request request = new Request(data);
 
-            var controller = GetController();
+            var controller = CreateCustomerPutController();
             controller.CreateCustomerAction(request);
         }
 
-        private static CustomerPutController GetController()
+        private static CustomerPutController CreateCustomerPutController()
         {
             CustomerRepository customerRepository = new CustomerRepository();
             CustomerConverter customerConverter = new CustomerConverter();

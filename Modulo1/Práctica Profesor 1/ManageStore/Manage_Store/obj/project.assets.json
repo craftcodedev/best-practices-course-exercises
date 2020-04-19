@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\ALC\\Digital Heroes\\Practicas Test\\Modulo1\\Práctica Profesor 1\\ManageStore\\Manage_Store\\Manage_Store.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\ALC\\Digital Heroes\\GitEjercicios\\Modulo1\\Práctica Profesor 1\\ManageStore\\Manage_Store\\Manage_Store.csproj",
       "projectName": "Manage_Store",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\ALC\\Digital Heroes\\Practicas Test\\Modulo1\\Práctica Profesor 1\\ManageStore\\Manage_Store\\Manage_Store.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\ALC\\Digital Heroes\\GitEjercicios\\Modulo1\\Práctica Profesor 1\\ManageStore\\Manage_Store\\Manage_Store.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\ALC\\Digital Heroes\\Practicas Test\\Modulo1\\Práctica Profesor 1\\ManageStore\\Manage_Store\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\ALC\\Digital Heroes\\GitEjercicios\\Modulo1\\Práctica Profesor 1\\ManageStore\\Manage_Store\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

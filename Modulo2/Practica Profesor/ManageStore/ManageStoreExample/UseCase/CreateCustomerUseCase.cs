@@ -3,16 +3,20 @@ using ManageStore.Repository;
 using ManageStore.Repository.Exception;
 using ManageStore.Model.Customer;
 using ManageStore.Model.Customer.ValueObject;
+using ManageStore.Service.Convert;
 
 namespace ManageStore.UseCase
 {
     public class CreateCustomerUseCase
     {
         private ICustomerRepository CustomerRepository;
+        private CustomerConverter converter;
 
-        public CreateCustomerUseCase(ICustomerRepository CustomerRepository)
+        public CreateCustomerUseCase(ICustomerRepository CustomerRepository,
+            CustomerConverter converter)
         {
             this.CustomerRepository = CustomerRepository;
+            this.converter = converter;
         }
 
         public bool Execute(CreateCustomerRequest request)

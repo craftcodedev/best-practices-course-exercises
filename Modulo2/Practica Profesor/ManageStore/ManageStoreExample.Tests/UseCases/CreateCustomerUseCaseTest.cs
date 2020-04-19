@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using ManageStore.Repository;
 using ManageStore.UseCase;
 using Moq;
+using ManageStore.Service.Convert;
 
 namespace ManageStore.Tests.UseCases
 {
@@ -21,7 +22,8 @@ namespace ManageStore.Tests.UseCases
         {
             //Arrange
             var mockRepository = new Mock<ICustomerRepository>();
-            var customerUseCase = new CreateCustomerUseCase(mockRepository.Object);
+            var converter = new CustomerConverter();
+            var customerUseCase = new CreateCustomerUseCase(mockRepository.Object, converter);
 
             CustomerId customerId = new CustomerId(1234);
             CustomerName customerName = new CustomerName("customer");

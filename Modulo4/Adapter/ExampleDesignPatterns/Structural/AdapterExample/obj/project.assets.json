@@ -729,28 +729,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/Blashak/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/AdapterExample.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\ALC\\Digital Heroes\\GitEjercicios\\Modulo4\\Adapter\\ExampleDesignPatterns\\Structural\\AdapterExample\\AdapterExample.csproj",
       "projectName": "AdapterExample",
-      "projectPath": "/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/AdapterExample.csproj",
-      "packagesPath": "/Users/Blashak/.nuget/packages/",
-      "outputPath": "/Users/Blashak/Projects/best-practices-course-exercises/Modulo4/Adapter/ExampleDesignPatterns/Structural/AdapterExample/obj/",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\ALC\\Digital Heroes\\GitEjercicios\\Modulo4\\Adapter\\ExampleDesignPatterns\\Structural\\AdapterExample\\AdapterExample.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\ALC\\Digital Heroes\\GitEjercicios\\Modulo4\\Adapter\\ExampleDesignPatterns\\Structural\\AdapterExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Blashak/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.dev.dom.alcinformatica.com/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -768,6 +771,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
