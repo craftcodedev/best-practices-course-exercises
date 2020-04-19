@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\ValueObjects\ValueObjects\bin\Debug\netcoreapp2.1\ValueObjects.deps.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\ValueObjects\ValueObjects\bin\Debug\netcoreapp2.1\ValueObjects.runtimeconfig.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\ValueObjects\ValueObjects\bin\Debug\netcoreapp2.1\ValueObjects.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\ValueObjects\ValueObjects\bin\Debug\netcoreapp2.1\ValueObjects.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\ValueObjects\ValueObjects\bin\Debug\netcoreapp2.1\ValueObjects.pdb
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\ValueObjects\ValueObjects\obj\Debug\netcoreapp2.1\ValueObjects.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\ValueObjects\ValueObjects\obj\Debug\netcoreapp2.1\ValueObjects.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\ValueObjects\ValueObjects\obj\Debug\netcoreapp2.1\ValueObjects.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\ValueObjects\ValueObjects\obj\Debug\netcoreapp2.1\ValueObjects.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\ValueObjects\ValueObjects\obj\Debug\netcoreapp2.1\ValueObjects.dll
+C:\Users\Usuario\Documents\ALC\Digital Heroes\GitEjercicios\Modulo1\ValueObjects\ValueObjects\obj\Debug\netcoreapp2.1\ValueObjects.pdb
