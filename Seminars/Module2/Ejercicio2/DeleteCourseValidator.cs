@@ -13,7 +13,7 @@ namespace Module2.Ejercicio2
             this.moduleRepository = moduleRepository;
         }
 
-        public virtual void Validate(string courseId, string courseStatus)
+        public void Validate(string courseId, string courseStatus)
         {
             this.courseCanBeDeleted(courseId, courseStatus);
         }
