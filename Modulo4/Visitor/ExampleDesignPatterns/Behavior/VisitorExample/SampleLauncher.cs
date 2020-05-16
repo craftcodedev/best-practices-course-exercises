@@ -43,9 +43,29 @@ namespace Visitor
 
             //Visitor
             ActivityLogVisitor activity = new ActivityLogVisitor();
-            activity.Visit(course);
-            activity.Visit(practice);
-            activity.Visit(classCourse);
+            //activity.Visit(course);
+            //activity.Visit(practice);
+            //activity.Visit(classCourse);
+
+            //#BAD.....................................
+
+
+            //No visitor
+            if(object is Course)
+            {
+                Logger.Log("Course.txt", "El curso " + course.Name + " ha sido finalizado " + course.Date);
+            }
+            else if(object is Class)
+            {
+                Logger.Log("Class.txt", "La clase " + classCourse.Name + " ha sido visto por " + classCourse.StudentName);
+            }
+            else if (object is Practice)
+            {
+                Logger.Log("Practice.txt", "La práctica " + practice.Name + " ha sido terminada por " + practice.StudentName);
+            }
+
+            //object can be course, class, practica
+            object.Accept(new ActivityLogVisitor());
         }
 	}
 }
