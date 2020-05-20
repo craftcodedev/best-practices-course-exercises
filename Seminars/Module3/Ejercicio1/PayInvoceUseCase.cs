@@ -16,10 +16,9 @@ namespace Directos.Module3.Ejercicio1
             
             if (userBalance < invoiceTotal) {
                 throw new System.Exception("not enough funds");
-                //throw new NotEnoughFundsException();
             }
 
-            newBalance = userBalance - invoiceTotal;
+            var newBalance = userBalance - invoiceTotal;
             user.SetBalance(newBalance);
         }
     }

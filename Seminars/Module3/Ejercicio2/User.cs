@@ -3,8 +3,8 @@ namespace Directos.Module3.Ejercicio2
     public class User
     {
         private int id;
-        private int insurance;
-        private int nationality;
+        private string insurance;
+        private string nationality;
 
         public User(int id, string insurance, string nationality)
         {

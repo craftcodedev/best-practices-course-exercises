@@ -1,8 +1,8 @@
 namespace Directos.Module3.Ejercicio2
 {
-    public class UserCalculateInsuranceException
+    public class UserCalculateInsuranceException : System.Exception
     {
-        public NotEnoughFundsException(string message): base(message){}
+        public UserCalculateInsuranceException(string message): base(message){}
 
         public static UserCalculateInsuranceException FromNationality()
         {

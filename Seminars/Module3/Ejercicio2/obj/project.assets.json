@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Blashak/Projects/best-practices-course/student/Seminars/Module3/Ejercicio2/Ejercicio2.csproj",
+      "projectUniqueName": "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo3/Ejercicio2/Ejercicio2.csproj",
       "projectName": "Ejercicio2",
-      "projectPath": "/Users/Blashak/Projects/best-practices-course/student/Seminars/Module3/Ejercicio2/Ejercicio2.csproj",
+      "projectPath": "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo3/Ejercicio2/Ejercicio2.csproj",
       "packagesPath": "/Users/Blashak/.nuget/packages/",
-      "outputPath": "/Users/Blashak/Projects/best-practices-course/student/Seminars/Module3/Ejercicio2/obj/",
+      "outputPath": "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo3/Ejercicio2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

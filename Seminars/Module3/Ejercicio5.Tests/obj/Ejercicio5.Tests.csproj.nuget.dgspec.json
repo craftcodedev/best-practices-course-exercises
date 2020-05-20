@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo3/Ejercicio5.Tests/Ejercicio5.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo3/Ejercicio5.Tests/Ejercicio5.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo3/Ejercicio5.Tests/Ejercicio5.Tests.csproj",
+        "projectName": "Ejercicio5.Tests",
+        "projectPath": "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo3/Ejercicio5.Tests/Ejercicio5.Tests.csproj",
+        "packagesPath": "/Users/Blashak/.nuget/packages/",
+        "outputPath": "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo3/Ejercicio5.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Blashak/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo3/Ejercicio5/Ejercicio5.csproj": {
+                "projectPath": "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo3/Ejercicio5/Ejercicio5.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo3/Ejercicio5/Ejercicio5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo3/Ejercicio5/Ejercicio5.csproj",
+        "projectName": "Ejercicio5",
+        "projectPath": "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo3/Ejercicio5/Ejercicio5.csproj",
+        "packagesPath": "/Users/Blashak/.nuget/packages/",
+        "outputPath": "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo3/Ejercicio5/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Blashak/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
