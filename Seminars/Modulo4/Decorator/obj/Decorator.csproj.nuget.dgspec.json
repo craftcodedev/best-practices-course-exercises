@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo4/Decorator/Decorator.csproj": {}
+  },
+  "projects": {
+    "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo4/Decorator/Decorator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo4/Decorator/Decorator.csproj",
+        "projectName": "Decorator",
+        "projectPath": "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo4/Decorator/Decorator.csproj",
+        "packagesPath": "/Users/Blashak/.nuget/packages/",
+        "outputPath": "/Users/Blashak/Projects/curso-buenas-practicas/Directos/Modulo4/Decorator/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Blashak/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
