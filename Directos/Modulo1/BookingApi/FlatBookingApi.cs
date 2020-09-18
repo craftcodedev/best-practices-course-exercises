@@ -11,7 +11,7 @@ namespace Directos.Modulo1.BookingApi
         {
         }
 
-        public object FindFlat()
+        public object FindFlats()
         {
             return this.client.Request("flats");
         }
