@@ -20,7 +20,7 @@ namespace elearning.Shared.Infrastructure.Persistence.Context
 
 //3. add the following content to startup.json
 services.AddDbContextPool<ELearningContext>(options => options
-    .UseMySql(this.configuration.GetConnectionString("DefaultConnection"))
+    .UseMySql(Configuration.GetConnectionString("DefaultConnection"))
     .EnableSensitiveDataLogging()
 );
 services.AddScoped<ELearningContext>();
