@@ -1,4 +1,10 @@
-//1. add the following authentication service to startup.cs
+//1. add to appsettings
+"AppSettings": {
+    "Secret": "0vTXplbiIiyDh2eEKId0WYYoofzpyoRMWeE0Wc37NN6q8L6uj3bjD0LLEkbqGNtJWdOwdfqIAcV7UTn65Haewyju1WUirO8X0",
+    "TokenLifetimeInMinutes": 10080
+},
+
+//2. add the following authentication service to startup.cs
 
 var appSettingsSection = Configuration.GetSection("AppSettings");
 var secret = Configuration.GetValue<string>("AppSettings:Secret");
@@ -25,7 +31,7 @@ services.AddAuthentication(x =>
 services.AddOptions();
 
 
-//2. add the following swagger service to startup.cs
+//3. add the following swagger service to startup.cs
 
 services.AddSwaggerGen(
                 options =>
@@ -55,9 +61,9 @@ services.AddSwaggerGen(
                     }
                 });
 
-//3. add the following content to startup.cs
+//4. add the following content to startup.cs
 app.UseAuthentication();
 
-//4. add the following attribute to some controller
+//5. add the following attribute to some controller
 [Authorize]
 [Authorize(Roles = UserRole.ROLE_ADMIN)]
